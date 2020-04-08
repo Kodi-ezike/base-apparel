@@ -3,15 +3,7 @@
     padding: 0;
 }
 body{
-    /* background-image: linear-gradient(135deg, white, rgb(253, 229, 229) ); */
-    /** background: url(bg-pattern-desktop.svg); **/
     font-family: 'Josefin Sans',sans-serif;
-    
-
-}
-.wrapper{
-    /* padding: 3rem; */
-    background-image: linear-gradient(135deg, white, rgb(253, 176, 176) );
 }
 #big1{
     font-size: 50px;
@@ -117,6 +109,7 @@ button{
 }
 #small{
     margin-right: auto;
+    padding: 0.5rem;
 }
 .logo{
     background: url(logo.svg);
@@ -152,18 +145,17 @@ button{
 
     padding: 2rem;
     background-color: rgb(255, 249, 249) ;
-    /* background-image: linear-gradient(135deg, white, rgb(253, 229, 229) ); */
 }
 button{
     background-size: 20%;
     width: 50px;
-    margin-left: -50px ;
+    margin-left: -55px ;
     padding: 23px 20px;
     padding-bottom: 0.9rem;
 
 }
 input[type=email]{
-    width: 100%;
+    width: 90%;
     background-color:rgb(255, 249, 249) ;
     padding: 11px 11px;
 
