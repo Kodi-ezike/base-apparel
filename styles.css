@@ -20,8 +20,9 @@ body{
     color:rgb(190, 138, 147);
     margin-top: 20px;
     font-size: 12px;
-    margin-right: 2rem;
+    margin-right: 4rem;
     font-weight: 600;
+    line-height: 20px;
 }
 .logo{
     background: url(logo.svg);
@@ -58,7 +59,7 @@ button{
     border: 1px solid rgb(226, 185, 192);
     border-radius: 20px;
     margin: -40px; 
-    margin-left: -40px;
+    margin-left: -70px;
 }
 .wrapper{
     width: 60%;
@@ -87,7 +88,7 @@ button{
 .container2{
     width: 90vw;
     height: 90vh;
-    margin:10vh 10vw;
+    margin:5vh 5vw;
     display: flex;
 }
 
